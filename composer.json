@@ -1,0 +1,14 @@
+{
+    "name": "mixnode/mixnode-warcreader-php",
+    "description": "Read Web ARChive (WARC) files in PHP.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nariman Jelveh",
+            "email": "nj@mixnode.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
