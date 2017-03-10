@@ -9,6 +9,6 @@
             "email": "nj@mixnode.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
