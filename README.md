@@ -27,7 +27,7 @@ You can then later update Mixnode WARC Reader using composer:
 composer.phar update
  ```
 
-# A Simple Example
+## A Simple Example
 
 ```php
 <?php
