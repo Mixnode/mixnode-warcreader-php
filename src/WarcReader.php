@@ -1,5 +1,5 @@
 <?php 
-namespace Mixnode\WarcReader;
+namespace Mixnode;
 use Exception;
 
 class WarcReader
