@@ -9,6 +9,9 @@
             "email": "nj@mixnode.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Mixnode\\" : "src/" }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
