@@ -3,11 +3,9 @@ This library allows developers to read Web ARChive (WARC) files in PHP.
 
 ## Installation Guide
 
-We recommend Composer for installing this package:
-[Composer](http://getcomposer.org).
+We recommend [Composer](http://getcomposer.org) for installing this package:
 
 ```bash
-# Install Composer
 curl -sS https://getcomposer.org/installer | php
 ```
 
